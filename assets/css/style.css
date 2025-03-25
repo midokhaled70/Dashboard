@@ -132,4 +132,16 @@
   ::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
   
   
-  
+  .container { padding-inline: 15px; }
+
+.icon-box { font-variation-settings: 'wght' 300; }
+
+.icon-box .icon { font-size: 22px; }
+
+.h2,
+.h3 {
+  color: var(--onyx-2);
+  font-weight: var(--fw-600);
+}
+
+.h2 { font-size: var(--fs-3); }
