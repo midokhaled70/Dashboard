@@ -1,6 +1,3 @@
-Below is a well-structured README file based on the provided code. It includes an overview, features, setup instructions, and details about the JavaScript functionality.
-
----
 
 # Dashboard Project
 
