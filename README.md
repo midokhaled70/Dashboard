@@ -129,12 +129,11 @@ loadMoreBtn.addEventListener("click", () => {
 * **Interactivity**: Enhance or extend features in `assets/js/script.js` to add new behaviors.
 
 ---
-
+## Author
 ## Credits
 
 * **Fonts:** [Be Vietnam Pro](https://fonts.google.com/specimen/Be+Vietnam+Pro) by Google Fonts
 * **Icons:** [Material Symbols](https://fonts.google.com/icons) by Google Fonts
-* **Author:** © 2025 MIDOKHALED
 * ** PhoneNumber:** 01030480083**
 
 ---
