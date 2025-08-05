@@ -130,7 +130,7 @@ loadMoreBtn.addEventListener("click", () => {
 
 ---
 ## Author
-**Mido khale
+**Mido khaled
 ## Credits
 
 * **Fonts:** [Be Vietnam Pro](https://fonts.google.com/specimen/Be+Vietnam+Pro) by Google Fonts
